@@ -1,0 +1,12 @@
+# Folders to ignore
+cmake-build-debug
+out
+
+# Files to ignore
+*.exe
+*.out
+
+# IntelliJ project files
+.idea
+*.iml
+gen
