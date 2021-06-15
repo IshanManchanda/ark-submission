@@ -1,0 +1,9 @@
+The figures and the data in the CSV files are in the following order:
+
+image 1: 4 moves, Dijkstra's Algorithm
+image 2: 4 moves, Admissible A* (Manhattan Distance)
+image 3: 4 moves, Best-First Search
+
+image 4: 8 moves, Dijkstra's Algorithm
+image 5: 8 moves, Admissible A* (Diagonal Distance)
+image 6: 8 moves, Best-First Search
